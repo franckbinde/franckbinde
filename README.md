@@ -7,7 +7,7 @@ I am Franck Binde, a Data Analyst. I show my passion for data using tools like `
 Apart from tools, I interact with concepts like `Data Modeling`, `Data WrangLing` and `Data Visualization`.
 
 #### Educational Background
-- Completed the **Data Analytics Nanodegree Program from Udacity** (through a scholarship offered by the **African Leadership Group**)
+- Completed the **Data Analytics Nanodegree Program from Udacity** (through a scholarship offered by the [**African Leadership Group**](https://algroup.org/))
 - Completed the **Google Data Analytics Certification**
 - Obtained a Master degree in Industrial Engineering from the Higher Institute of Technology of Central Africa
 - ....
