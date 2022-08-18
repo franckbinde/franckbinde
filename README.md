@@ -9,6 +9,7 @@ Apart from tools, I interact with concepts like `Data Modeling`, `Data WrangLing
 #### Educational Background
 - Completed the **Data Analytics Nanodegree Program from Udacity** (through a scholarship offered by the [**African Leadership Group**](https://algroup.org/))
 - Completed the **Google Data Analytics Certification**
+- Completed the **IBM Advanced Data Science Program**
 - Obtained a Master degree in Industrial Engineering from the Higher Institute of Technology of Central Africa
 - ....
 
