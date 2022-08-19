@@ -16,7 +16,7 @@ Apart from tools, I interact with concepts like `Data Modeling`, `Data WrangLing
 #### What else ...
 
 - 🧸 I love people. I mean, I really do. I am into the tech world because I am commited to improving people's life with the help of technology.
-- 👯 I’m looking to collaborate with passionate people on any data related project that can teach me things.
+- 👯 I’m looking to collaborate with passionate people on any data related project that can teach me things. Also looking for a Data/BI Analyst role.
 - 🤔 I’m looking for help with ways to improve my github profile
 - 📫 You can check my linkedin account [here](https://linkedin.com/in/franckbinde)
 - ⚡  I also enjoy producing music on my laptop, doing graphic design, and also starring at the sky at night.
